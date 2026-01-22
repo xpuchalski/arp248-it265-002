@@ -1,5 +1,5 @@
 # Game Studio Brainstorming Template
-
+this is not intended to be viewed on git, but instead as a .md
 ## Studio Name Ideas
 - **Primary Ideas:**
   - Acid rain
